@@ -9,3 +9,5 @@
 - Time Series Manipulation
 
 - Image Processing
+
+- Time series Vizualization
