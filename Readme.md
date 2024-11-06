@@ -11,3 +11,9 @@
 - Image Processing
 
 - Time series Vizualization
+
+- Regression Analysis
+
+- Machine learning for Time series forecasting
+
+- 
